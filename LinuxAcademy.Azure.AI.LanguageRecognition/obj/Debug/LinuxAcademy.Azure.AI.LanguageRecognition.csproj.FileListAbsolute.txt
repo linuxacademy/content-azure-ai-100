@@ -1,0 +1,10 @@
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.LanguageRecognition\bin\Debug\LinuxAcademy.Azure.AI.LanguageRecognition.exe.config
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.LanguageRecognition\bin\Debug\LinuxAcademy.Azure.AI.LanguageRecognition.exe
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.LanguageRecognition\bin\Debug\LinuxAcademy.Azure.AI.LanguageRecognition.pdb
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.LanguageRecognition\obj\Debug\LinuxAcademy.Azure.AI.LanguageRecognition.csprojAssemblyReference.cache
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.LanguageRecognition\obj\Debug\LinuxAcademy.Azure.AI.LanguageRecognition.exe
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.LanguageRecognition\obj\Debug\LinuxAcademy.Azure.AI.LanguageRecognition.pdb
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.LanguageRecognition\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.LanguageRecognition\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.LanguageRecognition\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.LanguageRecognition\obj\Debug\LinuxAcademy.Azure.AI.LanguageRecognition.csproj.CopyComplete
