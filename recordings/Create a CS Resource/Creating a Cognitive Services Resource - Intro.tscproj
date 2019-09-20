@@ -1,0 +1,3630 @@
+{
+  "title" : "",
+  "description" : "",
+  "author" : "",
+  "targetLoudness" : -18.0,
+  "shouldApplyLoudnessNormalization" : true,
+  "videoPlaybackRate" : 30,
+  "audioPlaybackRate" : 44100,
+  "width" : 1920.0,
+  "height" : 1080.0,
+  "version" : "3.0",
+  "editRate" : 30,
+  "authoringClientName" :  {
+    "name" : "Camtasia",
+    "platform" : "Windows",
+    "version" : "19.0"
+  },
+  "sourceBin" : [
+    {
+      "id" : 1,
+      "src" : "C:\\Users\\mike\\Documents\\Camtasia\\Rec 09-17-19_001.trec",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20190917T173539",
+      "sourceTracks" : [
+        {
+          "range" : [0, 6539],
+          "type" : 0,
+          "editRate" : 30,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : 28,
+          "bitDepth" : 0,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "Rec 09-17-19_001.trec;"
+        }
+      ]
+    },
+    {
+      "id" : 2,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 1.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T204611",
+      "sourceTracks" : [
+        {
+          "range" : [0, 31114775],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -36.7069199609032,
+          "peakLevel" : 0.0832144841551781,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 3,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 2.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T205901",
+      "sourceTracks" : [
+        {
+          "range" : [0, 30185886],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -39.2090540609452,
+          "peakLevel" : 0.0528713651001453,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 4,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 3.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T205928",
+      "sourceTracks" : [
+        {
+          "range" : [0, 53638110],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -45.5231285315369,
+          "peakLevel" : 0.0380452498793602,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 5,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 4.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T205950",
+      "sourceTracks" : [
+        {
+          "range" : [0, 41215443],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -56.0284554180599,
+          "peakLevel" : 0.00951257068663836,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 6,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 5.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T210012",
+      "sourceTracks" : [
+        {
+          "range" : [0, 28560554],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -32.3755149009368,
+          "peakLevel" : 0.119163565337658,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 7,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 6.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T210025",
+      "sourceTracks" : [
+        {
+          "range" : [0, 31927443],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -23.4500165537443,
+          "peakLevel" : 0.487381368875504,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 8,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 7.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T210043",
+      "sourceTracks" : [
+        {
+          "range" : [0, 44117886],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -42.6831213375289,
+          "peakLevel" : 0.0397665165364742,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 9,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 8.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T210103",
+      "sourceTracks" : [
+        {
+          "range" : [0, 31927443],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -57.113775361161,
+          "peakLevel" : 0.00588776357471943,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 10,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 9.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T210119",
+      "sourceTracks" : [
+        {
+          "range" : [0, 22755554],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -56.0502195839982,
+          "peakLevel" : 0.00857684947550297,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 11,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 10.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T210152",
+      "sourceTracks" : [
+        {
+          "range" : [0, 27051221],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -68.9667278077018,
+          "peakLevel" : 0.00219155079685152,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 12,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 11.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T210749",
+      "sourceTracks" : [
+        {
+          "range" : [0, 54334665],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -31.6939307531089,
+          "peakLevel" : 0.237196534872055,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 13,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 12.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T210818",
+      "sourceTracks" : [
+        {
+          "range" : [0, 54102443],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -31.7172977724536,
+          "peakLevel" : 0.282974272966385,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 14,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 13.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T210920",
+      "sourceTracks" : [
+        {
+          "range" : [0, 65944665],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -33.9196553979682,
+          "peakLevel" : 0.21449239552021,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 15,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 14.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T211228",
+      "sourceTracks" : [
+        {
+          "range" : [0, 52477110],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -32.6737652526055,
+          "peakLevel" : 0.180516794323921,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 16,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 15.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T211500",
+      "sourceTracks" : [
+        {
+          "range" : [0, 74071665],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -30.7787820052278,
+          "peakLevel" : 0.218864277005196,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 17,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 16.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T211514",
+      "sourceTracks" : [
+        {
+          "range" : [0, 52709332],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -30.8045671580085,
+          "peakLevel" : 0.203796178102493,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 18,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 17.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T211529",
+      "sourceTracks" : [
+        {
+          "range" : [0, 66409110],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -31.6564312459733,
+          "peakLevel" : 0.227498143911362,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 19,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 18.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T211543",
+      "sourceTracks" : [
+        {
+          "range" : [0, 69311554],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -31.8730173836292,
+          "peakLevel" : 0.203176438808441,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 20,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 19.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T211614",
+      "sourceTracks" : [
+        {
+          "range" : [0, 83707886],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -32.4407799124888,
+          "peakLevel" : 0.212895557284355,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 21,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 20.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T211629",
+      "sourceTracks" : [
+        {
+          "range" : [0, 63506554],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -31.8586616049244,
+          "peakLevel" : 0.227256745100021,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 22,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 21.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T211703",
+      "sourceTracks" : [
+        {
+          "range" : [0, 60139665],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -32.5544871637447,
+          "peakLevel" : 0.264136731624603,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 23,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 22.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T211949",
+      "sourceTracks" : [
+        {
+          "range" : [0, 56656665],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -31.901950115702,
+          "peakLevel" : 0.237849771976471,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 24,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 23.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T212019",
+      "sourceTracks" : [
+        {
+          "range" : [0, 65944665],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -32.8781086224608,
+          "peakLevel" : 0.158409222960472,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 25,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 24.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T212032",
+      "sourceTracks" : [
+        {
+          "range" : [0, 53521997],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -29.0369205031822,
+          "peakLevel" : 0.251176953315735,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 26,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 25.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T212056",
+      "sourceTracks" : [
+        {
+          "range" : [0, 83011332],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -32.2743674266269,
+          "peakLevel" : 0.196393057703972,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 27,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 26.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T212119",
+      "sourceTracks" : [
+        {
+          "range" : [0, 75000443],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -32.1444612647817,
+          "peakLevel" : 0.316271394491196,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 28,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 27.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T212202",
+      "sourceTracks" : [
+        {
+          "range" : [0, 125155554],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -31.903953620904,
+          "peakLevel" : 0.248383030295372,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 29,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 28.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T212348",
+      "sourceTracks" : [
+        {
+          "range" : [0, 67918332],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -32.7309846035984,
+          "peakLevel" : 0.159133896231651,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 30,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 29.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T212412",
+      "sourceTracks" : [
+        {
+          "range" : [0, 97407665],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -32.3793047853428,
+          "peakLevel" : 0.21003195643425,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 31,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 30.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T212428",
+      "sourceTracks" : [
+        {
+          "range" : [0, 58630332],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -33.5639062040594,
+          "peakLevel" : 0.150419697165489,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 32,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 31.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T212450",
+      "sourceTracks" : [
+        {
+          "range" : [0, 67337886],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -30.8444585350232,
+          "peakLevel" : 0.22633396089077,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 33,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 32.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T212518",
+      "sourceTracks" : [
+        {
+          "range" : [0, 115867554],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -32.2335296724654,
+          "peakLevel" : 0.152628719806671,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 34,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 33.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T212546",
+      "sourceTracks" : [
+        {
+          "range" : [0, 81850332],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -32.8217543437246,
+          "peakLevel" : 0.155140459537506,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 35,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 34.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T212613",
+      "sourceTracks" : [
+        {
+          "range" : [0, 59675332],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -32.0513110358529,
+          "peakLevel" : 0.200201779603958,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 36,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 35.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T212641",
+      "sourceTracks" : [
+        {
+          "range" : [0, 192609554],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -33.5528600935822,
+          "peakLevel" : 0.206644326448441,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 37,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 36.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T212713",
+      "sourceTracks" : [
+        {
+          "range" : [0, 98220443],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -33.1203757867835,
+          "peakLevel" : 0.197065889835358,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 38,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 37.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T212732",
+      "sourceTracks" : [
+        {
+          "range" : [0, 59907443],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -33.2097902099904,
+          "peakLevel" : 0.266484826803207,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 39,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 38.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T212743",
+      "sourceTracks" : [
+        {
+          "range" : [0, 47136554],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -32.7189543601836,
+          "peakLevel" : 0.189979285001755,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 40,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 39.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T212756",
+      "sourceTracks" : [
+        {
+          "range" : [0, 55960110],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -33.369782447601,
+          "peakLevel" : 0.168016314506531,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 41,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 40.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T212835",
+      "sourceTracks" : [
+        {
+          "range" : [0, 93344221],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -33.2801110848656,
+          "peakLevel" : 0.174959287047386,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 42,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 41.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T212945",
+      "sourceTracks" : [
+        {
+          "range" : [0, 44582332],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -33.7592978504585,
+          "peakLevel" : 0.182871088385582,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 43,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 42.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T213030",
+      "sourceTracks" : [
+        {
+          "range" : [0, 55611775],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -32.9592982245366,
+          "peakLevel" : 0.164333418011665,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 44,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 43.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T213050",
+      "sourceTracks" : [
+        {
+          "range" : [0, 102516111],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -32.1728461588854,
+          "peakLevel" : 0.192885860800743,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 45,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 44.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T213108",
+      "sourceTracks" : [
+        {
+          "range" : [0, 69195443],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -32.2285525643713,
+          "peakLevel" : 0.197427362203598,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 46,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 45.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T213128",
+      "sourceTracks" : [
+        {
+          "range" : [0, 58282110],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -32.5517130790348,
+          "peakLevel" : 0.165256142616272,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 47,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 46.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T213227",
+      "sourceTracks" : [
+        {
+          "range" : [0, 36687554],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -32.456791804017,
+          "peakLevel" : 0.154495880007744,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 48,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 47.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T213252",
+      "sourceTracks" : [
+        {
+          "range" : [0, 145008665],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -32.7411843791779,
+          "peakLevel" : 0.193827480077744,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 49,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 48.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T213316",
+      "sourceTracks" : [
+        {
+          "range" : [0, 68266665],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -32.5541426449255,
+          "peakLevel" : 0.184983640909195,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 50,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 49.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T213331",
+      "sourceTracks" : [
+        {
+          "range" : [0, 50271221],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -32.280888151136,
+          "peakLevel" : 0.176007091999054,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 51,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 50.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T213412",
+      "sourceTracks" : [
+        {
+          "range" : [0, 50735554],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -32.0855850794415,
+          "peakLevel" : 0.165931090712547,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 52,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 51.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T213435",
+      "sourceTracks" : [
+        {
+          "range" : [0, 65131997],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -34.0554652905306,
+          "peakLevel" : 0.170664414763451,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 53,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 52.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T213503",
+      "sourceTracks" : [
+        {
+          "range" : [0, 51316110],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -32.7025441829908,
+          "peakLevel" : 0.193354204297066,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 54,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 53.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T213520",
+      "sourceTracks" : [
+        {
+          "range" : [0, 86842665],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -32.9891712155103,
+          "peakLevel" : 0.242768481373787,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 55,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 54.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T213533",
+      "sourceTracks" : [
+        {
+          "range" : [0, 67221775],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -31.37820319263,
+          "peakLevel" : 0.251264303922653,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 56,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 55.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T213602",
+      "sourceTracks" : [
+        {
+          "range" : [0, 59559221],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -33.7271170307055,
+          "peakLevel" : 0.16101311147213,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 57,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 56.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T213627",
+      "sourceTracks" : [
+        {
+          "range" : [0, 79876665],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -32.4394676565988,
+          "peakLevel" : 0.165251791477203,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 58,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 57.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T213708",
+      "sourceTracks" : [
+        {
+          "range" : [0, 56076221],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -31.8796740666576,
+          "peakLevel" : 0.176571354269981,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 59,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 58.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T213737",
+      "sourceTracks" : [
+        {
+          "range" : [0, 95201775],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -33.6672059330462,
+          "peakLevel" : 0.213054031133652,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 60,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 59.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T213756",
+      "sourceTracks" : [
+        {
+          "range" : [0, 73026775],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -34.9006334418069,
+          "peakLevel" : 0.190515995025635,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 61,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 60.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T213844",
+      "sourceTracks" : [
+        {
+          "range" : [0, 88235775],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -32.2944458162007,
+          "peakLevel" : 0.221888408064842,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 62,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 61.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T213916",
+      "sourceTracks" : [
+        {
+          "range" : [0, 141061221],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -31.4350903606798,
+          "peakLevel" : 0.23589201271534,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 63,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 62.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T214020",
+      "sourceTracks" : [
+        {
+          "range" : [0, 78367332],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -33.0720881855787,
+          "peakLevel" : 0.175622597336769,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 64,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 63.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T214413",
+      "sourceTracks" : [
+        {
+          "range" : [0, 35526554],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -30.4599858088274,
+          "peakLevel" : 0.224837586283684,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 65,
+      "src" : "C:\\Users\\mike\\Dev\\LA\\content-azure-ai-100\\recordings\\Create a CS Resource\\Narration_Creating a Cognitive Services Resource 64.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20190919T214814",
+      "sourceTracks" : [
+        {
+          "range" : [0, 121904775],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -31.6090033738935,
+          "peakLevel" : 0.218074336647987,
+          "metaData" : ""
+        }
+      ]
+    }
+  ],
+  "timeline" : {
+    "id" : 66,
+    "sceneTrack" : {
+      "scenes" : [
+        {
+          "duration" : 79.7333333333333,
+          "title" : "",
+          "type" : "",
+          "csml" : {
+            "tracks" : [
+              {
+                "trackIndex" : 0,
+                "medias" : [
+                  {
+                    "id" : 67,
+                    "_type" : "StitchedMedia",
+                    "minMediaStart" : -108000,
+                    "attributes" : {
+                      "ident" : "Rec 09-17-19_001",
+                      "gain" : 1.0,
+                      "mixToMono" : false
+                    },
+                    "parameters" : {
+                      "cursorOpacity" : 1.0,
+                      "cursorScale" : 1.0
+                    },
+                    "medias" : [
+                        {
+                          "id" : 68,
+                          "_type" : "ScreenIMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "trimStartSum" : -108000,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorOpacity" : 0.0,
+                            "cursorScale" : 0.0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : -108000,
+                          "duration" : 107578,
+                          "mediaStart" : 585,
+                          "mediaDuration" : 1,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : ""
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 69,
+                          "_type" : "ScreenIMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "trimStartSum" : -418,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorOpacity" : 0.0,
+                            "cursorScale" : 0.0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : -422,
+                          "duration" : 224,
+                          "mediaStart" : 585,
+                          "mediaDuration" : 1,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : ""
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 70,
+                          "_type" : "ScreenIMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "trimStartSum" : -189,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorOpacity" : 0.0,
+                            "cursorScale" : 0.0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : -198,
+                          "duration" : 79,
+                          "mediaStart" : 585,
+                          "mediaDuration" : 1,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : ""
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 71,
+                          "_type" : "ScreenIMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "trimStartSum" : -18,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorOpacity" : 0.0,
+                            "cursorScale" : 0.0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : -119,
+                          "duration" : 19,
+                          "mediaStart" : 585,
+                          "mediaDuration" : 1,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : ""
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 72,
+                          "_type" : "ScreenVMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorScale" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "cursorOpacity" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            }
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : -100,
+                          "duration" : 96,
+                          "mediaStart" : 585,
+                          "mediaDuration" : 96,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : "",
+                            "clipSpeedAttribute" : false
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 73,
+                          "_type" : "ScreenVMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorScale" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "cursorOpacity" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            }
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : -4,
+                          "duration" : 47,
+                          "mediaStart" : 688,
+                          "mediaDuration" : 47,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : "",
+                            "clipSpeedAttribute" : false
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 74,
+                          "_type" : "ScreenVMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorScale" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "cursorOpacity" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            }
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 43,
+                          "duration" : 69,
+                          "mediaStart" : 760,
+                          "mediaDuration" : 69,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : "",
+                            "clipSpeedAttribute" : false
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 75,
+                          "_type" : "ScreenIMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "trimStartSum" : 0,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorOpacity" : 0.0,
+                            "cursorScale" : 0.0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 112,
+                          "duration" : 108001,
+                          "mediaStart" : 828,
+                          "mediaDuration" : 1,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : ""
+                          },
+                          "animationTracks" : {
+
+                          }
+                        }
+                    ],
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 658,
+                    "mediaStart" : -533,
+                    "mediaDuration" : 658,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "AutoAppliedSmartFocus" : "False",
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 76,
+                    "_type" : "StitchedMedia",
+                    "minMediaStart" : -108000,
+                    "attributes" : {
+                      "ident" : "Rec 09-17-19_001",
+                      "gain" : 1.0,
+                      "mixToMono" : false
+                    },
+                    "parameters" : {
+                      "cursorOpacity" : 1.0,
+                      "cursorScale" : 1.0
+                    },
+                    "medias" : [
+                        {
+                          "id" : 77,
+                          "_type" : "ScreenIMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "trimStartSum" : -108000,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorOpacity" : 0.0,
+                            "cursorScale" : 0.0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : -108000,
+                          "duration" : 107578,
+                          "mediaStart" : 585,
+                          "mediaDuration" : 1,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : ""
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 78,
+                          "_type" : "ScreenIMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "trimStartSum" : -418,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorOpacity" : 0.0,
+                            "cursorScale" : 0.0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : -422,
+                          "duration" : 224,
+                          "mediaStart" : 585,
+                          "mediaDuration" : 1,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : ""
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 79,
+                          "_type" : "ScreenIMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "trimStartSum" : -189,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorOpacity" : 0.0,
+                            "cursorScale" : 0.0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : -198,
+                          "duration" : 79,
+                          "mediaStart" : 585,
+                          "mediaDuration" : 1,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : ""
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 80,
+                          "_type" : "ScreenIMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "trimStartSum" : -18,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorOpacity" : 0.0,
+                            "cursorScale" : 0.0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : -119,
+                          "duration" : 19,
+                          "mediaStart" : 585,
+                          "mediaDuration" : 1,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : ""
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 81,
+                          "_type" : "ScreenVMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorScale" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "cursorOpacity" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            }
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : -100,
+                          "duration" : 96,
+                          "mediaStart" : 585,
+                          "mediaDuration" : 96,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : "",
+                            "clipSpeedAttribute" : false
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 82,
+                          "_type" : "ScreenVMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorScale" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "cursorOpacity" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            }
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : -4,
+                          "duration" : 47,
+                          "mediaStart" : 688,
+                          "mediaDuration" : 47,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : "",
+                            "clipSpeedAttribute" : false
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 83,
+                          "_type" : "ScreenVMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorScale" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "cursorOpacity" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            }
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 43,
+                          "duration" : 69,
+                          "mediaStart" : 760,
+                          "mediaDuration" : 69,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : "",
+                            "clipSpeedAttribute" : false
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 84,
+                          "_type" : "ScreenVMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorScale" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "cursorOpacity" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            }
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 112,
+                          "duration" : 22,
+                          "mediaStart" : 833,
+                          "mediaDuration" : 22,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : "",
+                            "clipSpeedAttribute" : false
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 85,
+                          "_type" : "ScreenIMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "trimStartSum" : 0,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorOpacity" : 0.0,
+                            "cursorScale" : 0.0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 134,
+                          "duration" : 104,
+                          "mediaStart" : 854,
+                          "mediaDuration" : 1,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : ""
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 86,
+                          "_type" : "ScreenIMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "trimStartSum" : 125,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorOpacity" : 0.0,
+                            "cursorScale" : 0.0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 238,
+                          "duration" : 156,
+                          "mediaStart" : 854,
+                          "mediaDuration" : 1,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : ""
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 87,
+                          "_type" : "ScreenIMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "trimStartSum" : 293,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorOpacity" : 0.0,
+                            "cursorScale" : 0.0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 394,
+                          "duration" : 80,
+                          "mediaStart" : 854,
+                          "mediaDuration" : 1,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : ""
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 88,
+                          "_type" : "ScreenIMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "trimStartSum" : 395,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorOpacity" : 0.0,
+                            "cursorScale" : 0.0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 474,
+                          "duration" : 162,
+                          "mediaStart" : 854,
+                          "mediaDuration" : 1,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : ""
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 89,
+                          "_type" : "ScreenIMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "trimStartSum" : 590,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorOpacity" : 0.0,
+                            "cursorScale" : 0.0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 636,
+                          "duration" : 148,
+                          "mediaStart" : 854,
+                          "mediaDuration" : 1,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : ""
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 90,
+                          "_type" : "ScreenIMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "trimStartSum" : 765,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorOpacity" : 0.0,
+                            "cursorScale" : 0.0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 784,
+                          "duration" : 88,
+                          "mediaStart" : 854,
+                          "mediaDuration" : 1,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : ""
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 91,
+                          "_type" : "ScreenIMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "trimStartSum" : 861,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorOpacity" : 0.0,
+                            "cursorScale" : 0.0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 872,
+                          "duration" : 89,
+                          "mediaStart" : 854,
+                          "mediaDuration" : 1,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : ""
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 92,
+                          "_type" : "ScreenIMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "trimStartSum" : 973,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorOpacity" : 0.0,
+                            "cursorScale" : 0.0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 961,
+                          "duration" : 71,
+                          "mediaStart" : 854,
+                          "mediaDuration" : 1,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : ""
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 93,
+                          "_type" : "ScreenIMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "trimStartSum" : 1051,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorOpacity" : 0.0,
+                            "cursorScale" : 0.0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 1032,
+                          "duration" : 64,
+                          "mediaStart" : 854,
+                          "mediaDuration" : 1,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : ""
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 94,
+                          "_type" : "ScreenIMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "trimStartSum" : 1144,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorOpacity" : 0.0,
+                            "cursorScale" : 0.0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 1096,
+                          "duration" : 227,
+                          "mediaStart" : 854,
+                          "mediaDuration" : 1,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : ""
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 95,
+                          "_type" : "ScreenIMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "trimStartSum" : 1408,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorOpacity" : 0.0,
+                            "cursorScale" : 0.0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 1323,
+                          "duration" : 117,
+                          "mediaStart" : 854,
+                          "mediaDuration" : 1,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : ""
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 96,
+                          "_type" : "ScreenIMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "trimStartSum" : 1528,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorOpacity" : 0.0,
+                            "cursorScale" : 0.0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 1440,
+                          "duration" : 75,
+                          "mediaStart" : 854,
+                          "mediaDuration" : 1,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : ""
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 97,
+                          "_type" : "ScreenIMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "trimStartSum" : 1634,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorOpacity" : 0.0,
+                            "cursorScale" : 0.0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 1515,
+                          "duration" : 94,
+                          "mediaStart" : 854,
+                          "mediaDuration" : 1,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : ""
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 98,
+                          "_type" : "ScreenIMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "trimStartSum" : 1733,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorOpacity" : 0.0,
+                            "cursorScale" : 0.0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 1609,
+                          "duration" : 79,
+                          "mediaStart" : 854,
+                          "mediaDuration" : 1,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : ""
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 99,
+                          "_type" : "ScreenIMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "trimStartSum" : 1817,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorOpacity" : 0.0,
+                            "cursorScale" : 0.0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 1688,
+                          "duration" : 83,
+                          "mediaStart" : 854,
+                          "mediaDuration" : 1,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : ""
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 100,
+                          "_type" : "ScreenIMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "trimStartSum" : 1905,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorOpacity" : 0.0,
+                            "cursorScale" : 0.0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 1771,
+                          "duration" : 106,
+                          "mediaStart" : 854,
+                          "mediaDuration" : 1,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : ""
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 101,
+                          "_type" : "ScreenIMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "trimStartSum" : 2524,
+                          "attributes" : {
+                            "ident" : "Rec 09-17-19_001"
+                          },
+                          "parameters" : {
+                            "cursorOpacity" : 0.0,
+                            "cursorScale" : 0.0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 1877,
+                          "duration" : 105477,
+                          "mediaStart" : 854,
+                          "mediaDuration" : 1,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : ""
+                          },
+                          "animationTracks" : {
+
+                          }
+                        }
+                    ],
+                    "effects" : [
+
+                    ],
+                    "start" : 658,
+                    "duration" : 1734,
+                    "mediaStart" : 125,
+                    "mediaDuration" : 1734,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "AutoAppliedSmartFocus" : "False",
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 1,
+                "medias" : [
+                  {
+                    "id" : 102,
+                    "_type" : "StitchedMedia",
+                    "minMediaStart" : 0,
+                    "attributes" : {
+                      "ident" : "Narration_Creating a Cognitive Services Resource 12",
+                      "gain" : 1.0,
+                      "mixToMono" : true
+                    },
+                    "parameters" : {
+                      "volume" : 1.0,
+                      "cursorOpacity" : 1.0,
+                      "cursorScale" : 1.0
+                    },
+                    "medias" : [
+                        {
+                          "id" : 103,
+                          "_type" : "AMFile",
+                          "src" : 13,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Narration_Creating a Cognitive Services Resource 12",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : true
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 0,
+                          "duration" : 111,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 111,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "WinSubProjectDisplayName" : "",
+                            "clipSpeedAttribute" : false
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 104,
+                          "_type" : "AMFile",
+                          "src" : 13,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Narration_Creating a Cognitive Services Resource 12",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : true
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 111,
+                          "duration" : 47,
+                          "mediaStart" : 115,
+                          "mediaDuration" : 47,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "WinSubProjectDisplayName" : "",
+                            "clipSpeedAttribute" : false
+                          },
+                          "animationTracks" : {
+
+                          }
+                        }
+                    ],
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 158,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 158,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 105,
+                    "_type" : "AMFile",
+                    "src" : 14,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Narration_Creating a Cognitive Services Resource 13",
+                      "sampleRate" : 44100,
+                      "bitDepth" : 16,
+                      "gain" : 1.0,
+                      "mixToMono" : true
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+
+                    ],
+                    "start" : 158,
+                    "duration" : 177,
+                    "mediaStart" : 12,
+                    "mediaDuration" : 177,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 106,
+                    "_type" : "AMFile",
+                    "src" : 17,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Narration_Creating a Cognitive Services Resource 16",
+                      "sampleRate" : 44100,
+                      "bitDepth" : 16,
+                      "gain" : 1.0,
+                      "mixToMono" : true
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+
+                    ],
+                    "start" : 335,
+                    "duration" : 79,
+                    "mediaStart" : 23,
+                    "mediaDuration" : 79,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 107,
+                    "_type" : "StitchedMedia",
+                    "minMediaStart" : 0,
+                    "attributes" : {
+                      "ident" : "Narration_Creating a Cognitive Services Resource 17",
+                      "gain" : 1.0,
+                      "mixToMono" : true
+                    },
+                    "parameters" : {
+                      "volume" : 1.0,
+                      "cursorOpacity" : 1.0,
+                      "cursorScale" : 1.0
+                    },
+                    "medias" : [
+                        {
+                          "id" : 108,
+                          "_type" : "AMFile",
+                          "src" : 18,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Narration_Creating a Cognitive Services Resource 17",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : true
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 0,
+                          "duration" : 139,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 139,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "WinSubProjectDisplayName" : "",
+                            "clipSpeedAttribute" : false
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 109,
+                          "_type" : "AMFile",
+                          "src" : 18,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Narration_Creating a Cognitive Services Resource 17",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : true
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 139,
+                          "duration" : 52,
+                          "mediaStart" : 146,
+                          "mediaDuration" : 52,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "WinSubProjectDisplayName" : "",
+                            "clipSpeedAttribute" : false
+                          },
+                          "animationTracks" : {
+
+                          }
+                        }
+                    ],
+                    "effects" : [
+
+                    ],
+                    "start" : 414,
+                    "duration" : 162,
+                    "mediaStart" : 24,
+                    "mediaDuration" : 162,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 110,
+                    "_type" : "StitchedMedia",
+                    "minMediaStart" : 0,
+                    "attributes" : {
+                      "ident" : "Narration_Creating a Cognitive Services Resource 18",
+                      "gain" : 1.0,
+                      "mixToMono" : true
+                    },
+                    "parameters" : {
+                      "volume" : 1.0,
+                      "cursorOpacity" : 1.0,
+                      "cursorScale" : 1.0
+                    },
+                    "medias" : [
+                        {
+                          "id" : 111,
+                          "_type" : "AMFile",
+                          "src" : 19,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Narration_Creating a Cognitive Services Resource 18",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : true
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 0,
+                          "duration" : 77,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 77,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "WinSubProjectDisplayName" : "",
+                            "clipSpeedAttribute" : false
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 112,
+                          "_type" : "AMFile",
+                          "src" : 19,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Narration_Creating a Cognitive Services Resource 18",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : true
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 77,
+                          "duration" : 126,
+                          "mediaStart" : 81,
+                          "mediaDuration" : 126,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "WinSubProjectDisplayName" : "",
+                            "clipSpeedAttribute" : false
+                          },
+                          "animationTracks" : {
+
+                          }
+                        }
+                    ],
+                    "effects" : [
+
+                    ],
+                    "start" : 576,
+                    "duration" : 195,
+                    "mediaStart" : 8,
+                    "mediaDuration" : 195,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 113,
+                    "_type" : "AMFile",
+                    "src" : 20,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Narration_Creating a Cognitive Services Resource 19",
+                      "sampleRate" : 44100,
+                      "bitDepth" : 16,
+                      "gain" : 1.0,
+                      "mixToMono" : true
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+
+                    ],
+                    "start" : 771,
+                    "duration" : 156,
+                    "mediaStart" : 18,
+                    "mediaDuration" : 156,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 114,
+                    "_type" : "AMFile",
+                    "src" : 64,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Narration_Creating a Cognitive Services Resource 63",
+                      "sampleRate" : 44100,
+                      "bitDepth" : 16,
+                      "gain" : 1.0,
+                      "mixToMono" : true
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+
+                    ],
+                    "start" : 927,
+                    "duration" : 80,
+                    "mediaStart" : 22,
+                    "mediaDuration" : 80,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 115,
+                    "_type" : "AMFile",
+                    "src" : 22,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Narration_Creating a Cognitive Services Resource 21",
+                      "sampleRate" : 44100,
+                      "bitDepth" : 16,
+                      "gain" : 1.0,
+                      "mixToMono" : true
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+
+                    ],
+                    "start" : 1007,
+                    "duration" : 162,
+                    "mediaStart" : 17,
+                    "mediaDuration" : 162,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 116,
+                    "_type" : "AMFile",
+                    "src" : 23,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Narration_Creating a Cognitive Services Resource 22",
+                      "sampleRate" : 44100,
+                      "bitDepth" : 16,
+                      "gain" : 1.0,
+                      "mixToMono" : true
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+
+                    ],
+                    "start" : 1169,
+                    "duration" : 148,
+                    "mediaStart" : 20,
+                    "mediaDuration" : 148,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 117,
+                    "_type" : "StitchedMedia",
+                    "minMediaStart" : 0,
+                    "attributes" : {
+                      "ident" : "Narration_Creating a Cognitive Services Resource 23",
+                      "gain" : 1.0,
+                      "mixToMono" : true
+                    },
+                    "parameters" : {
+                      "volume" : 1.0,
+                      "cursorOpacity" : 1.0,
+                      "cursorScale" : 1.0
+                    },
+                    "medias" : [
+                        {
+                          "id" : 118,
+                          "_type" : "AMFile",
+                          "src" : 24,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Narration_Creating a Cognitive Services Resource 23",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : true
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 0,
+                          "duration" : 101,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 101,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "WinSubProjectDisplayName" : "",
+                            "clipSpeedAttribute" : false
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 119,
+                          "_type" : "AMFile",
+                          "src" : 24,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Narration_Creating a Cognitive Services Resource 23",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : true
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 101,
+                          "duration" : 89,
+                          "mediaStart" : 109,
+                          "mediaDuration" : 89,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "WinSubProjectDisplayName" : "",
+                            "clipSpeedAttribute" : false
+                          },
+                          "animationTracks" : {
+
+                          }
+                        }
+                    ],
+                    "effects" : [
+
+                    ],
+                    "start" : 1317,
+                    "duration" : 177,
+                    "mediaStart" : 13,
+                    "mediaDuration" : 177,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 120,
+                    "_type" : "StitchedMedia",
+                    "minMediaStart" : 0,
+                    "attributes" : {
+                      "ident" : "Narration_Creating a Cognitive Services Resource 24",
+                      "gain" : 1.0,
+                      "mixToMono" : true
+                    },
+                    "parameters" : {
+                      "volume" : 1.0,
+                      "cursorOpacity" : 1.0,
+                      "cursorScale" : 1.0
+                    },
+                    "medias" : [
+                        {
+                          "id" : 121,
+                          "_type" : "AMFile",
+                          "src" : 25,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Narration_Creating a Cognitive Services Resource 24",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : true
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 0,
+                          "duration" : 86,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 86,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "WinSubProjectDisplayName" : "",
+                            "clipSpeedAttribute" : false
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 122,
+                          "_type" : "AMFile",
+                          "src" : 25,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Narration_Creating a Cognitive Services Resource 24",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : true
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 86,
+                          "duration" : 68,
+                          "mediaStart" : 93,
+                          "mediaDuration" : 68,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "WinSubProjectDisplayName" : "",
+                            "clipSpeedAttribute" : false
+                          },
+                          "animationTracks" : {
+
+                          }
+                        }
+                    ],
+                    "effects" : [
+
+                    ],
+                    "start" : 1494,
+                    "duration" : 135,
+                    "mediaStart" : 15,
+                    "mediaDuration" : 135,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 123,
+                    "_type" : "AMFile",
+                    "src" : 26,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Narration_Creating a Cognitive Services Resource 25",
+                      "sampleRate" : 44100,
+                      "bitDepth" : 16,
+                      "gain" : 1.0,
+                      "mixToMono" : true
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+
+                    ],
+                    "start" : 1629,
+                    "duration" : 227,
+                    "mediaStart" : 20,
+                    "mediaDuration" : 227,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 124,
+                    "_type" : "StitchedMedia",
+                    "minMediaStart" : 0,
+                    "attributes" : {
+                      "ident" : "Narration_Creating a Cognitive Services Resource 26",
+                      "gain" : 1.0,
+                      "mixToMono" : true
+                    },
+                    "parameters" : {
+                      "volume" : 1.0,
+                      "cursorOpacity" : 1.0,
+                      "cursorScale" : 1.0
+                    },
+                    "medias" : [
+                        {
+                          "id" : 125,
+                          "_type" : "AMFile",
+                          "src" : 27,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Narration_Creating a Cognitive Services Resource 26",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : true
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 0,
+                          "duration" : 140,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 140,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "WinSubProjectDisplayName" : "",
+                            "clipSpeedAttribute" : false
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 126,
+                          "_type" : "AMFile",
+                          "src" : 27,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Narration_Creating a Cognitive Services Resource 26",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : true
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 140,
+                          "duration" : 82,
+                          "mediaStart" : 143,
+                          "mediaDuration" : 82,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "WinSubProjectDisplayName" : "",
+                            "clipSpeedAttribute" : false
+                          },
+                          "animationTracks" : {
+
+                          }
+                        }
+                    ],
+                    "effects" : [
+
+                    ],
+                    "start" : 1856,
+                    "duration" : 192,
+                    "mediaStart" : 23,
+                    "mediaDuration" : 192,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 127,
+                    "_type" : "StitchedMedia",
+                    "minMediaStart" : 0,
+                    "attributes" : {
+                      "ident" : "Narration_Creating a Cognitive Services Resource 27",
+                      "gain" : 1.0,
+                      "mixToMono" : true
+                    },
+                    "parameters" : {
+                      "volume" : 1.0,
+                      "cursorOpacity" : 1.0,
+                      "cursorScale" : 1.0
+                    },
+                    "medias" : [
+                        {
+                          "id" : 128,
+                          "_type" : "AMFile",
+                          "src" : 28,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Narration_Creating a Cognitive Services Resource 27",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : true
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 0,
+                          "duration" : 110,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 110,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "WinSubProjectDisplayName" : "",
+                            "clipSpeedAttribute" : false
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 129,
+                          "_type" : "AMFile",
+                          "src" : 28,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Narration_Creating a Cognitive Services Resource 27",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : true
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 110,
+                          "duration" : 79,
+                          "mediaStart" : 115,
+                          "mediaDuration" : 79,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "WinSubProjectDisplayName" : "",
+                            "clipSpeedAttribute" : false
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 130,
+                          "_type" : "AMFile",
+                          "src" : 28,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Narration_Creating a Cognitive Services Resource 27",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : true
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 189,
+                          "duration" : 83,
+                          "mediaStart" : 199,
+                          "mediaDuration" : 83,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "WinSubProjectDisplayName" : "",
+                            "clipSpeedAttribute" : false
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 131,
+                          "_type" : "AMFile",
+                          "src" : 28,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Narration_Creating a Cognitive Services Resource 27",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.0,
+                            "mixToMono" : true
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 272,
+                          "duration" : 88,
+                          "mediaStart" : 287,
+                          "mediaDuration" : 88,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "WinSubProjectDisplayName" : "",
+                            "clipSpeedAttribute" : false
+                          },
+                          "animationTracks" : {
+
+                          }
+                        }
+                    ],
+                    "effects" : [
+
+                    ],
+                    "start" : 2048,
+                    "duration" : 344,
+                    "mediaStart" : 16,
+                    "mediaDuration" : 344,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 2,
+                "medias" : [
+                  {
+                    "id" : 132,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-arrow",
+                      "style" : "basic",
+                      "fill-color-blue" : 0.258823529411765,
+                      "fill-color-green" : 0.258823529411765,
+                      "fill-color-opacity" : 1.0,
+                      "fill-color-red" : 0.988235294117647,
+                      "height" : 58.0000000000187,
+                      "line-spacing" : 0.0,
+                      "stroke-color-blue" : 1.0,
+                      "stroke-color-green" : 1.0,
+                      "stroke-color-opacity" : 1.0,
+                      "stroke-color-red" : 1.0,
+                      "stroke-width" : 0.0,
+                      "tail-x" : -100.000000000119,
+                      "tail-y" : -50.9999999999906,
+                      "width" : 199.999999999761,
+                      "word-wrap" : 1.0,
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "stroke-style" : "solid",
+                      "text" : "",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : 1.0,
+                        "color-green" : 1.0,
+                        "color-red" : 1.0,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : 170.000000000035,
+                      "translation1" : 209.999999999959
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 644,
+                    "duration" : 41,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 41,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 133,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-arrow",
+                      "style" : "basic",
+                      "fill-color-blue" : 0.258823529411765,
+                      "fill-color-green" : 0.258823529411765,
+                      "fill-color-opacity" : 1.0,
+                      "fill-color-red" : 0.988235294117647,
+                      "height" : 58.0000000000187,
+                      "line-spacing" : 0.0,
+                      "stroke-color-blue" : 1.0,
+                      "stroke-color-green" : 1.0,
+                      "stroke-color-opacity" : 1.0,
+                      "stroke-color-red" : 1.0,
+                      "stroke-width" : 0.0,
+                      "tail-x" : -100.000000000119,
+                      "tail-y" : -50.9999999999906,
+                      "width" : 199.999999999761,
+                      "word-wrap" : 1.0,
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "stroke-style" : "solid",
+                      "text" : "",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : 1.0,
+                        "color-green" : 1.0,
+                        "color-red" : 1.0,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : 170.000000000035,
+                      "translation1" : 103.999999999946
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 685,
+                    "duration" : 20,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 20,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 134,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-arrow",
+                      "style" : "basic",
+                      "fill-color-blue" : 0.258823529411765,
+                      "fill-color-green" : 0.258823529411765,
+                      "fill-color-opacity" : 1.0,
+                      "fill-color-red" : 0.988235294117647,
+                      "height" : 58.0000000000187,
+                      "line-spacing" : 0.0,
+                      "stroke-color-blue" : 1.0,
+                      "stroke-color-green" : 1.0,
+                      "stroke-color-opacity" : 1.0,
+                      "stroke-color-red" : 1.0,
+                      "stroke-width" : 0.0,
+                      "tail-x" : -100.000000000119,
+                      "tail-y" : -50.9999999999906,
+                      "width" : 199.999999999761,
+                      "word-wrap" : 1.0,
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "stroke-style" : "solid",
+                      "text" : "",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : 1.0,
+                        "color-green" : 1.0,
+                        "color-red" : 1.0,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : 170.000000000035,
+                      "translation1" : -16.000000000082
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 707,
+                    "duration" : 64,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 64,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 3,
+                "medias" : [
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "trackAttributes" : [
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      }
+    ],
+    "captionAttributes" : {
+      "enabled" : true,
+      "fontName" : "Arial",
+      "fontSize" : 64,
+      "backgroundColor" : [ 0, 0, 0, 191],
+      "foregroundColor" : [ 255, 255, 255, 255],
+      "lang" : "en",
+      "alignment" : 0,
+      "defaultFontSize" : true,
+      "opacity" : 0.5,
+      "backgroundEnabled" : true,
+      "backgroundOnlyAroundText" : true
+    },
+    "backgroundColor" : [ 0, 0, 0, 255]
+  },
+  "metadata" : {
+    "AutoSaveFile" : "C:\\Users\\mike\\AppData\\Local\\TechSmith\\Camtasia Studio\\19.0\\Auto-Saves\\Creating a Cognitive Services Resource - Intro16fbb96.autosave.tscproj",
+    "CanvasZoom" : 60,
+    "Date" : "2019-09-17 11:24:26 AM",
+    "Fit" : 0,
+    "IsAutoSave" : "0",
+    "Language" : "ENU",
+    "ProfileName" : "",
+    "ProjectDimensionsChanged" : "1",
+    "Title" : "Creating a Cognitive Services Resource - Intro",
+    "audioNarrationNotes" : "",
+    "calloutStyle" : "Basic",
+    "canvasDetached" : "False",
+    "canvasPositionHeight" : "0",
+    "canvasPositionLeft" : "0",
+    "canvasPositionTop" : "0",
+    "canvasPositionWidth" : "0"
+  },
+  "audioPlaybackRate" : 44100
+,
+  "themeFile" : null
+
+}
