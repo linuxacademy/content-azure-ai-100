@@ -1,0 +1,14 @@
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.KeyPhraseExtraction\KeyPhraseExtraction\bin\Debug\KeyPhraseExtraction.exe.config
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.KeyPhraseExtraction\KeyPhraseExtraction\bin\Debug\KeyPhraseExtraction.exe
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.KeyPhraseExtraction\KeyPhraseExtraction\bin\Debug\KeyPhraseExtraction.pdb
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.KeyPhraseExtraction\KeyPhraseExtraction\bin\Debug\Microsoft.Azure.CognitiveServices.Language.TextAnalytics.dll
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.KeyPhraseExtraction\KeyPhraseExtraction\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.KeyPhraseExtraction\KeyPhraseExtraction\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.KeyPhraseExtraction\KeyPhraseExtraction\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.KeyPhraseExtraction\KeyPhraseExtraction\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.KeyPhraseExtraction\KeyPhraseExtraction\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.KeyPhraseExtraction\KeyPhraseExtraction\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.KeyPhraseExtraction\KeyPhraseExtraction\obj\Debug\KeyPhraseExtraction.csprojAssemblyReference.cache
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.KeyPhraseExtraction\KeyPhraseExtraction\obj\Debug\KeyPhraseExtraction.csproj.CopyComplete
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.KeyPhraseExtraction\KeyPhraseExtraction\obj\Debug\KeyPhraseExtraction.exe
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.KeyPhraseExtraction\KeyPhraseExtraction\obj\Debug\KeyPhraseExtraction.pdb

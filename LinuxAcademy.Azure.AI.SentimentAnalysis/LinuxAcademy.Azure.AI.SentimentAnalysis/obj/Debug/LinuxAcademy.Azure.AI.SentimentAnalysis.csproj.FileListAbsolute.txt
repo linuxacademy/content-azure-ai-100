@@ -1,0 +1,14 @@
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.SentimentAnalysis\LinuxAcademy.Azure.AI.SentimentAnalysis\bin\Debug\LinuxAcademy.Azure.AI.SentimentAnalysis.exe.config
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.SentimentAnalysis\LinuxAcademy.Azure.AI.SentimentAnalysis\bin\Debug\LinuxAcademy.Azure.AI.SentimentAnalysis.exe
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.SentimentAnalysis\LinuxAcademy.Azure.AI.SentimentAnalysis\bin\Debug\LinuxAcademy.Azure.AI.SentimentAnalysis.pdb
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.SentimentAnalysis\LinuxAcademy.Azure.AI.SentimentAnalysis\bin\Debug\Microsoft.Azure.CognitiveServices.Language.TextAnalytics.dll
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.SentimentAnalysis\LinuxAcademy.Azure.AI.SentimentAnalysis\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.SentimentAnalysis\LinuxAcademy.Azure.AI.SentimentAnalysis\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.SentimentAnalysis\LinuxAcademy.Azure.AI.SentimentAnalysis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.SentimentAnalysis\LinuxAcademy.Azure.AI.SentimentAnalysis\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.SentimentAnalysis\LinuxAcademy.Azure.AI.SentimentAnalysis\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.SentimentAnalysis\LinuxAcademy.Azure.AI.SentimentAnalysis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.SentimentAnalysis\LinuxAcademy.Azure.AI.SentimentAnalysis\obj\Debug\LinuxAcademy.Azure.AI.SentimentAnalysis.csprojAssemblyReference.cache
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.SentimentAnalysis\LinuxAcademy.Azure.AI.SentimentAnalysis\obj\Debug\LinuxAcademy.Azure.AI.SentimentAnalysis.csproj.CopyComplete
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.SentimentAnalysis\LinuxAcademy.Azure.AI.SentimentAnalysis\obj\Debug\LinuxAcademy.Azure.AI.SentimentAnalysis.exe
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.SentimentAnalysis\LinuxAcademy.Azure.AI.SentimentAnalysis\obj\Debug\LinuxAcademy.Azure.AI.SentimentAnalysis.pdb

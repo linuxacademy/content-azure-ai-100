@@ -1,0 +1,14 @@
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.NamedEntityDetection\NamedEntityDetection\bin\Debug\NamedEntityDetection.exe.config
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.NamedEntityDetection\NamedEntityDetection\bin\Debug\NamedEntityDetection.exe
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.NamedEntityDetection\NamedEntityDetection\bin\Debug\NamedEntityDetection.pdb
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.NamedEntityDetection\NamedEntityDetection\bin\Debug\Microsoft.Azure.CognitiveServices.Language.TextAnalytics.dll
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.NamedEntityDetection\NamedEntityDetection\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.NamedEntityDetection\NamedEntityDetection\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.NamedEntityDetection\NamedEntityDetection\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.NamedEntityDetection\NamedEntityDetection\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.NamedEntityDetection\NamedEntityDetection\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.NamedEntityDetection\NamedEntityDetection\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.NamedEntityDetection\NamedEntityDetection\obj\Debug\NamedEntityDetection.csprojAssemblyReference.cache
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.NamedEntityDetection\NamedEntityDetection\obj\Debug\NamedEntityDetection.csproj.CopyComplete
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.NamedEntityDetection\NamedEntityDetection\obj\Debug\NamedEntityDetection.exe
+C:\Users\mike\Dev\LA\LinuxAcademy.Azure.AI\LinuxAcademy.Azure.AI.NamedEntityDetection\NamedEntityDetection\obj\Debug\NamedEntityDetection.pdb
