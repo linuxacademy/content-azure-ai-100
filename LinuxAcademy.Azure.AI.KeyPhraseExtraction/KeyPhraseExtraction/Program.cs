@@ -12,8 +12,8 @@ namespace KeyPhraseExtraction
     {
         static void Main(string[] args)
         {
-            string endpoint = "https://southcentralus.api.cognitive.microsoft.com/"; // insert your endpoint
-            string key = "99068cd60b1d4963b1a365ce5d81d87d"; // insert your key
+            string endpoint = ; // insert your endpoint
+            string key = ; // insert your key
 
             var credentials = new ApiKeyServiceClientCredentials(key);
             var client = new TextAnalyticsClient(credentials)
