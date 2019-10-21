@@ -33,7 +33,7 @@ namespace LinuxAcademy.Azure.AI.FaceRecognition
                 FaceAttributeType.Gender 
             };
 
-            Console.WriteLine("Starting face identification");
+            Console.WriteLine("Starting face detection");
 
             var imageFile = "bubbles.jpg";
             using (var imageStream = File.OpenRead(imageFile))

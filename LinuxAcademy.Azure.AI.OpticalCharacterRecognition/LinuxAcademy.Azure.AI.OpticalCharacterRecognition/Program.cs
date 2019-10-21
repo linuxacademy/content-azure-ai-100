@@ -20,7 +20,7 @@ namespace LinuxAcademy.Azure.AI.OpticalCharacterRecognition
         private static async Task RunAsync()
         {
             string endpoint = ; // insert your endpoint
-            string key = "99068cd60b1d4963b1a365ce5d81d87d"; // insert your key
+            string key = ; // insert your key
 
             var cvc = new ComputerVisionClient(
                 new ApiKeyServiceClientCredentials(key))
